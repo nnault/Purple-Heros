@@ -1,5 +1,12 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
 header {
-    background: violet;
+    background: #4F0975;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -8,7 +15,7 @@ header {
 header img {
     border-radius: 170px;
     width: 300px;
-    border: 20px solid #000;
+    border: 20px solid #fff;
 }
 
 header h1 {
@@ -16,12 +23,6 @@ header h1 {
     font-size: 50px;
 }
 
-body {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    line-height: 30px;
-}
 
 h1, h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -38,28 +39,28 @@ main img {
 }
 
 p.caption {
-    color: blueviolet;
+    color: #A181B2;
     font-style: italic;
     margin-top: 0;
 }
 
 h2 {
     font-size: 30px;
-    color: purple;
+    color: #4F0975;
     margin: 40px 0 10px;
 }
 
 a {
-    color: purple;
+    color: #4F0975;
 }
 
 a:hover {
     color: aqua;
-    background-color: purple;
+    background-color: #4F0975;
 }
 
 footer {
-    background: violet;
+    background: #4F0975;
     text-align: center;
     color: #fff;
     padding: 50px;
